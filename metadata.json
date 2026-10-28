@@ -1,0 +1,6 @@
+{
+  "name": "CPT rentals",
+  "description": "Event rentals CRM for CPT Events & Infrastructure: live inventory tracking, quote & invoice generator with WhatsApp sharing, role-based staff access, and daily closing cash ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
